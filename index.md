@@ -10,7 +10,7 @@ We are a vibrant community of English Speaking Catholics from across the Globe.
 
 ### Sunday Services
 
-Mass in English at 12:00 noon at St. Elisabet
+Mass in English at 12:00 noon at St. Elisabeth's
 
 #### Current COVID Regulations
 In addition to the coronavirus guidelines issued by the Archdiocese, here are some details about how masses are run at St. Elisabeth:
