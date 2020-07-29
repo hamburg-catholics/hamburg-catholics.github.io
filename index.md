@@ -2,7 +2,6 @@
 layout: page
 ---
 
-Hi All,
 Welcome to the website of the Hamburg English Speaking Community.
 This website is still under construction. But here's some information for you to get started off!
 
