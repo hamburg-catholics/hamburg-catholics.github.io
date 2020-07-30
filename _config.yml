@@ -29,6 +29,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Top navigation links
+header_pages:
+ - sacraments.md
+ - ministries.md
+ - resources.md
+ - newsletter.md
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
