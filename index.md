@@ -5,7 +5,9 @@ layout: page
 <img src="assets/images/home.jpg" alt="St. Elisabeth Church in Hamburg" style="width: 200px; float: right; margin: 0 0 20px 20px;">
 
 ## Welcome!
-We are a vibrant community of English-speaking Catholics from across the globe. Whether you are moving to Hamburg permanently, on a temporary assignment, or just passing through the city as a traveler, you are welcome to celebrate mass with us in English. To stay up to date on activities and opportunities, please subscribe to our monthly email newsletter.
+We are a vibrant community of English-speaking Catholics from across the globe.
+Whether you are moving to Hamburg permanently, on a temporary assignment, or just passing through the city as a traveler, you are welcome to celebrate mass with us in English.
+To stay up to date on activities and opportunities, please subscribe to our [monthly email newsletter](/newsletter).
 
 ## Mass Time and Location
 Mass is held in English at 12:00 noon every Sunday at St. Elisabeth Church at Oberstraße 67 in Hamburg.
