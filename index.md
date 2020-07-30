@@ -4,7 +4,6 @@ layout: page
 
 <img src="assets/images/home.jpg" alt="St. Elisabeth Church in Hamburg" style="width: 200px; float: right; margin: 0 0 20px 20px;">
 
-Hi All,
 Welcome to the website of the Hamburg English Speaking Community.
 This website is still under construction. But here's some information for you to get started off!
 
