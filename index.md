@@ -11,7 +11,7 @@ We are a vibrant community of English-speaking Catholics from across the globe. 
 Mass is held in English at 12:00 noon every Sunday at St. Elisabeth Church at Oberstraße 67 in Hamburg.
 
 <div class="map-responsive">
-  <iframe width="800" height="600" id="gmap_canvas" src="https://maps.google.com/maps?q=Kath.%20Kirchengemeinde%20St.%20Elisabeth%20Hamburg&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+  <iframe width="800" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=Kath.%20Kirchengemeinde%20St.%20Elisabeth%20Hamburg&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 </div>
 
 <div class="notice">
