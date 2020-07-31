@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hamburg English Speaking Catholic Community
+short_title: HESCC
 email: st-elisabeth@hamburg-catholics.de
 description: >- # this means to ignore newlines until "baseurl:"
   Kath. Kirchengemeinde St. Elisabeth Hamburg
@@ -28,6 +29,21 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+#List of Pages with details
+page_list:
+  - page:
+      name: Home
+      url: /index
+  - page:
+      name: Sacraments
+      url: /sacraments
+  - page:
+      name: Ministries
+      url: /ministries
+  - page:
+      name: Resources
+      url: /resources
 
 # Top navigation links
 header_pages:
