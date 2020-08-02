@@ -1,7 +1,8 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "{{ site.theme }}";
+@import "styles";
 
 .notice {
   padding: 15px;
@@ -24,3 +25,4 @@
   width: 100%;
   position: absolute;
 }
+
