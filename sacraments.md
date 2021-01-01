@@ -23,7 +23,7 @@ Due to COVID-19, please pre-register with Fr. Ritchille Salinas at [svdsalinas@g
 Confessions are being heard in the parish hall (Gemeindehaus) during the pandemic.
 
 ## Eucharist
-Children or adults who are interested in being prepared for first holy communion should contact Mario Stallone at [TBD](mailto:TBD) to find out about when the next round of classes will take place.
+Children or adults who are interested in being prepared for first holy communion should contact Mario Stallone at [catechism@hamburg-catholics.de](mailto:catechism@hamburg-catholics.de) to find out about when the next round of classes will take place.
 
 If you or a family member cannot attend Mass and would like to have the Eucharist brought to your home, please contact Fr. Ritchille Salinas at [svdsalinas@gmail.com](mailto:svdsalinas@gmail.com).
 
