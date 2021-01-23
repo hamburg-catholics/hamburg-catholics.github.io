@@ -7,6 +7,9 @@ permalink: /covid
 ## Current COVID-19 Regulations
 
 In addition to the [coronavirus guidelines](https://www.erzbistum-hamburg.de/Themenbereich-Corona_Coronavirus-Erzbistum-Hamburg) issued by the Archdiocese of Hamburg, here are some details about how English language masses are run at St. Elisabeth until further notice:
+
+* We plan to hold masses as long as they are allowed by the city and the Archdiocese of Hamburg. However, we will stop holding masses if the 7-day infection rate for the city of Hamburg (as measured [here](https://www.hamburg.de/corona-zahlen/)) exceeds 200 per 100,000 residents. 
+
 * If you have any symptoms of illness or are in a high-risk group (60+, lung, heart, or immune issues), please don't attend mass in person.
 There are many options for attending mass online.
 If you attend church regularly, please consider staggering your visits (every 2 or 3 Sundays) so that others can have a chance to participate in the mass.
