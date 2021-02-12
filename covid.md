@@ -20,7 +20,7 @@ We do not accept reservations for seats; for the best chance of getting a seat, 
 
 * All parishioners will be required to provide their name and phone (or email) at the entrance for contact tracing, and disinfect their hands before entering the church.
 
-* Parishioners, celebrants, lectors, and cantors are required to wear a mask at all times while inside the church.
+* Parishioners, celebrants, and lectors are required to wear a mask at all times while inside the church.
 Everyone over the age of 14 is required to wear a "medical mask" (surgical mask or FFP2/N95/KN95); cloth masks are no longer sufficient.
 Children between 7-14 must wear a mask, but it may be a cloth mask.
 Children under the age of 7 are not required to wear a mask, but must remain with their parents for the duration of the mass.
