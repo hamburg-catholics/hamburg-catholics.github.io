@@ -29,6 +29,9 @@ Learn more about [mask types and requirements](https://www.hamburg.de/corona-mas
 * Ushers will seat you in a specific pew when you arrive.
 Please don't change seats without talking to an usher first, and try to avoid moving around the church any more than is absolutely necessary.
 
+* The church doors will be opened for ventilation every 20 minutes.
+Please be sure to have warm clothing when the weather is cold outside.
+
 * There is a choir at each mass, but community singing is not allowed.
 Please do not sing during the mass.
 Spoken responses and prayers are allowed.
