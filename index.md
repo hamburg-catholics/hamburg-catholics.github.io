@@ -4,7 +4,7 @@ background: 'assets/images/header.jpg'
 ---
 
 <div class="alert alert-info" role="alert">
-  <p>The <i>Gründungs Gottesdienst</i> scheduled for the <b>12th of Dec, 2021</b>, has been cancelled. We will have our regular Sunday Mass at 12 noon at St. Elisabeth's as usual.</p>
+  <p>The <i>Gründungs Gottesdienst</i> scheduled for the <b>12th of Dec, 2021</b>, has been cancelled. We will have our regularly scheduled Sunday Mass at 12 noon at St. Elisabeth's.</p>
 </div>
 
 <div class="alert alert-warning mb-5">
