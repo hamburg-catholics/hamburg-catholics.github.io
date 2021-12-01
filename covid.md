@@ -5,8 +5,7 @@ permalink: /covid
 ---
 
 ## Current COVID-19 Regulations
-
-
+<br/>
 * Starting December 5, 2021, a **"3G"** proof = "geimpft,
 genesen, getestet", proof of full vaccination protection, recovery or a negative test result is required for access in the church and in the inner area of the parish hall and parish office.
 * PoC-Antigentest should not be older than 24 hours &amp; PCR-Test, not older than 48 hours. 
@@ -18,7 +17,7 @@ genesen, getestet", proof of full vaccination protection, recovery or a negative
 * Wearing a FFP2 mask (for liturgical servers/ministers) or medical mask for the rest is mandatory when entering the church. 
 * The distances (1.5- 2m) is to be observed. Congregational singing is severely restricted.
 
-You can read more about the [coronavirus guidelines](https://www.erzbistum-hamburg.de/Themenbereich-Corona_Coronavirus-Erzbistum-Hamburg) issued by the Archdiocese of Hamburg here,
+You can read more about the [coronavirus guidelines](https://www.erzbistum-hamburg.de/Themenbereich-Corona_Coronavirus-Erzbistum-Hamburg) issued by the Archdiocese of Hamburg here.
 
 Here are some additional details about how English language masses are run at St. Elisabeth until further notice:
 
