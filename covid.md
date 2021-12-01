@@ -6,6 +6,7 @@ permalink: /covid
 
 ## Current COVID-19 Regulations
 
+
 * Starting December 5, 2021, a **"3G"** proof = "geimpft,
 genesen, getestet", proof of full vaccination protection, recovery or a negative test result is required for access in the church and in the inner area of the parish hall and parish office.
 * PoC-Antigentest should not be older than 24 hours &amp; PCR-Test, not older than 48 hours. 
