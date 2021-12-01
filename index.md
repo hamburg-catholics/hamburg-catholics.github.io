@@ -9,7 +9,7 @@ background: 'assets/images/header.jpg'
 
 <div class="alert alert-warning mb-5">
   <h3>Current COVID-19 Regulations</h3>
-  <p><a href="/covid">Learn more</a> about the regulations and guidelines in place to keep our community safe during the COVID-19 pandemic.</p>
+  <p>All our Masses from <b>5th Dec, 2021</b> will be conducted under the <b>3G</b> concept. <a href="/covid">Learn more</a> about the regulations and guidelines in place to keep our community safe during the COVID-19 pandemic.</p>
 </div>
 
 ## Welcome!
