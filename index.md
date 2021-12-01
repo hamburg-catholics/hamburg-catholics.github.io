@@ -5,7 +5,7 @@ background: 'assets/images/header.jpg'
 
 <div class="alert alert-info" role="alert">
   <h3>Announcement about Holy Mass on 12th Dec, 2021</h3>
-  <p>The <i>Gründungs Gottesdienst</i> schdduled for the 12th of Dec, 2021, has been cancelled. We will have our regular Sunday Mass at 12 noon at St. Elisabeth's as usual.</p>
+  <p>The <i>Gründungs Gottesdienst</i> scheduled for the 12th of Dec, 2021, has been cancelled. We will have our regular Sunday Mass at 12 noon at St. Elisabeth's as usual.</p>
 </div>
 
 <div class="alert alert-warning mb-5">
