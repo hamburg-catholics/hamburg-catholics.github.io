@@ -3,6 +3,11 @@ layout: home
 background: 'assets/images/header.jpg'
 ---
 
+<div class="alert alert-info" role="alert">
+  <h3>Announcement about Holy Mass on 12th Dec, 2021</h3>
+  <p>The <i>Gründungs Gottesdienst</i> schdduled for the 12th of Dec, 2021, has been cancelled. We will have our regular Sunday Mass at 12 noon at St. Elisabeth's as usual.</p>
+</div>
+
 <div class="alert alert-warning mb-5">
   <h3>Current COVID-19 Regulations</h3>
   <p><a href="/covid">Learn more</a> about the regulations and guidelines in place to keep our community safe during the COVID-19 pandemic.</p>
