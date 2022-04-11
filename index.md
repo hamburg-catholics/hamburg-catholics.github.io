@@ -8,6 +8,16 @@ background: 'assets/images/header.jpg'
   <p>All our Masses from <b>5th Dec, 2021</b> will be conducted under the <b>3G</b> concept. <a href="/covid">Learn more</a> about the regulations and guidelines in place to keep our community safe during the COVID-19 pandemic.</p>
 </div>
 
+<div class="alert alert-success mb-5">
+  <h3>Holy Week Schedule</h3>
+  <ul>
+    <li>Good Friday (15 Apr) - Celebration of the Lord’s Passion, including the Passion reading, solemn intercessions, and adoration of the Holy Cross (no Holy Communion) at 5:30 PM</li>
+    <li>Holy Saturday (16 Apr) - No English mass</li>
+    <li>Easter Sunday (17 Apr) - English mass at 12:00 noon</li>
+    <li>Easter Monday (18 Apr) - No English mass</li>
+  </ul>
+</div>
+
 ## Welcome!
 <img src="assets/images/home.jpg" alt="St. Elisabeth Church in Hamburg" style="width: 200px; float: right; margin: 0 0 20px 20px;">
 
