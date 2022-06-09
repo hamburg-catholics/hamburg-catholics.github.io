@@ -9,9 +9,9 @@ background: 'assets/images/header.jpg'
   <p>Wee will resume with regular Sunday Masss from 19th June!</p>
 </div>
 
-<div class="alert alert-warning mb-5">
-  <h3>Current COVID-19 Regulations</h3>
-  <p>All our Masses from <b>5th Dec, 2021</b> will be conducted under the <b>3G</b> concept. <a href="/covid">Learn more</a> about the regulations and guidelines in place to keep our community safe during the COVID-19 pandemic.</p>
+<div class="alert alert-info mb-5">
+  <h3>Mask and 3G Rules Lifted</h3>
+  <p>The Archdiocese of Hamburg, following the regulations of the federal state, has announced that parishioners are no longer required to wear masks while attending mass, and the obligation to meet the 3G rule at the entrance has also been also lifted. Everyone is, of course, welcome to continue wearing a mask as they see fit for themselves and their family.</p>
 </div>
 
 ## Welcome!
