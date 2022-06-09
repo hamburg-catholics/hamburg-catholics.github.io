@@ -3,19 +3,15 @@ layout: home
 background: 'assets/images/header.jpg'
 ---
 
+
+<div class="alert alert-warning mb-5">
+  <h3>No Sunday Mass at St. Elisabeth on 12th June, 2022</h3>
+  <p>Wee will resume with regular Sunday Masss from 19th June!</p>
+</div>
+
 <div class="alert alert-warning mb-5">
   <h3>Current COVID-19 Regulations</h3>
   <p>All our Masses from <b>5th Dec, 2021</b> will be conducted under the <b>3G</b> concept. <a href="/covid">Learn more</a> about the regulations and guidelines in place to keep our community safe during the COVID-19 pandemic.</p>
-</div>
-
-<div class="alert alert-success mb-5">
-  <h3>Holy Week Schedule</h3>
-  <ul>
-    <li>Good Friday (15 Apr) - Celebration of the Lord’s Passion, including the Passion reading, solemn intercessions, and adoration of the Holy Cross (no Holy Communion) at 5:30 PM</li>
-    <li>Holy Saturday (16 Apr) - No English mass</li>
-    <li>Easter Sunday (17 Apr) - English mass at 12:00 noon</li>
-    <li>Easter Monday (18 Apr) - No English mass</li>
-  </ul>
 </div>
 
 ## Welcome!
