@@ -5,8 +5,8 @@ background: 'assets/images/header.jpg'
 
 
 <div class="alert alert-warning mb-5">
-  <h3>No Sunday Mass at St. Elisabeth on 12th June, 2022</h3>
-  <p>Wee will resume with regular Sunday Masss from 19th June!</p>
+  <h3>No Sunday Mass at St. Elisabeth's on 12th June, 2022</h3>
+  <p>We will resume with regular Sunday Mass from 19th June, 2022!</p>
 </div>
 
 <div class="alert alert-info mb-5">
