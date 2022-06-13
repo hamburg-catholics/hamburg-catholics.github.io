@@ -4,11 +4,6 @@ background: 'assets/images/header.jpg'
 ---
 
 
-<div class="alert alert-warning mb-5">
-  <h3>No Sunday Mass at St. Elisabeth's on 12th June, 2022</h3>
-  <p>We will resume with regular Sunday Mass from 19th June, 2022!</p>
-</div>
-
 <div class="alert alert-info mb-5">
   <h3>Mask and 3G Rules Lifted</h3>
   <p>The Archdiocese of Hamburg, following the regulations of the federal state, has announced that parishioners are no longer required to wear masks while attending mass, and the obligation to meet the 3G rule at the entrance has also been also lifted. Everyone is, of course, welcome to continue wearing a mask as they see fit for themselves and their family.</p>
