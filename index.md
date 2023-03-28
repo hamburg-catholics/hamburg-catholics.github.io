@@ -3,8 +3,20 @@ layout: home
 background: 'assets/images/header.jpg'
 ---
 
-
 <div class="alert alert-info mb-5">
+  <h3>Lenten and Easter Mass Schedule</h3>  
+    <ul>
+      <li>Palm Sunday (2 Apr) - English mass at 12:00 noon, including a palm procession</li>
+      <li>Holy (Maundy Thursday (6 Apr) - No English mass</li>
+      <li>Good Friday (7 Apr) - Celebration of the Lord’s Passion, including the Passion reading, solemn intercessions, and adoration of the Holy Cross (no Holy Communion) at 5:30 PM</li>
+      <li>Holy Saturday (8 Apr) - No English mass</li>
+      <li>Easter Sunday (9 Apr) - English mass at 12:00 noon</li>
+      <li>Easter Monday (10 Apr) - No English mass</li>
+      <li>Ascension (18 May) - No English mass; we celebrate Ascension on the following Sunday during the regularly-scheduled mass</li>
+      </ul>
+</div>
+
+<div class="alert alert-secondary mb-5">
   <h3>Mask and 3G Rules Lifted</h3>
   <p>The Archdiocese of Hamburg, following the regulations of the federal state, has announced that parishioners are no longer required to wear masks while attending mass, and the obligation to meet the 3G rule at the entrance has also been also lifted. Everyone is, of course, welcome to continue wearing a mask as they see fit for themselves and their family.</p>
 </div>
