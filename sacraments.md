@@ -28,7 +28,7 @@ Children or adults who are interested in being prepared for first holy communion
 If you or a family member cannot attend Mass and would like to have the Eucharist brought to your home, please contact Fr. Ritchille Salinas at [svdsalinas@gmail.com](mailto:svdsalinas@gmail.com).
 
 ## Confirmation
-Children or adults who are interested in being prepared for confirmation should contact Sandra de Menezes at [sandemen@hotmail.com](mailto:sandemen@hotmail.com) to find out about when the next round of classes will take place.
+Children or adults who are interested in being prepared for confirmation should contact Sandra de Menezes at [confirmation@hamburg-catholics.de](mailto:confirmation@hamburg-catholics.de) to find out about when the next round of classes will take place.
 
 ## Marriage
 Couples who are interested in being prepared for marriage and/or married at St. Elisabeth should contact the secretary of Sankt Elisabeth, Frau Stephania Trost at 040 696 3838 70 or [info@st-elisabeth-hh.de](mailto:info@st-elisabeth-hh.de).
