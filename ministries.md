@@ -37,7 +37,7 @@ Please speak to Fr. Ritchille after mass if you are interested in this program.
 
 ## Young Adults
 We have a Young Adults group for anyone 18 and older who share our faith, study the Bible, worship, and pray.
-We meet every two weeks on Sundays after mass in the Parish Hall, usually for about an hour.
+We meet on every third Sunday after mass in the Parish Hall, usually for about an hour.
 It’s a great opportunity for anyone new to the faith or to Hamburg to get to know like-minded young adults.
 If you’d like to join, please contact [young-adults@hamburg-catholics.de](mailto:young-adults@hamburg-catholics.de).
 
