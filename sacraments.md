@@ -18,9 +18,7 @@ Baptism for adults is possible through the Rite of Christian Initiation of Adult
 If you are interested in joining the church as an adult, please contact Fr. Ritchille Salinas after mass.
 
 ## Confession
-Confession is available every Sunday before mass starting at 11:00.
-Due to COVID-19, please pre-register with Fr. Ritchille Salinas at [ritchille.salinas@erzbistum-hamburg.org](mailto:ritchille.salinas@erzbistum-hamburg.org).
-Confessions are being heard in the parish hall (Gemeindehaus) during the pandemic.
+Confession is available every Sunday before mass starting at 11:00, and also after mass.
 
 ## Eucharist
 Children or adults who are interested in being prepared for first holy communion should contact Mario Stallone at [catechism@hamburg-catholics.de](mailto:catechism@hamburg-catholics.de) to find out about when the next round of classes will take place.
