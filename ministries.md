@@ -26,7 +26,7 @@ All children who have not received their First Holy Communion can participate; j
 The children are taken to the Parish Hall to hear that day’s liturgy in a fun and enjoyable manner, usually including some fun activities.
 
 ## Children’s Catechism
-Catechism classes are available for kids between 8 and 15 years old every other Sunday from 10:30 - 11:30 am in the Parish Hall (currently being conducted over Zoom, due to the pandemic).
+Catechism classes are available for kids between 8 and 15 years old every 1st and 3rd Sunday from 10:30 am - 11:30 am in the Parish Hall.
 We teach the children about our faith and try to instil a love for Jesus and his church.
 Catechism is also a precursor for anyone who would like to receive First Holy Communion.
 If you’d like to join, please contact [catechism@hamburg-catholics.de](mailto:catechism@hamburg-catholics.de).
