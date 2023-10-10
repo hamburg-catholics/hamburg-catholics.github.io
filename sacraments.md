@@ -15,7 +15,7 @@ Please make contact at least 6 weeks before you would like the baptism to take p
 After you have contacted Frau Trost and signed the registration form, Fr. Ritchille Salinas will contact you to discuss and plan the baptism.
 
 Baptism for adults is possible through the Rite of Christian Initiation of Adults (RCIA).
-If you are interested in joining the church as an adult, please contact Fr. Christian Modemann, SJ at [Catholic Faith Information](https://pfarrei-edith-stein.de/KGI/Team__3550) (KGI: Katholische Glaubensinformation) Hamburg at 0162 13 53 261 or [modemann@kgi-hh.de](mailto:modemann@kgi-hh.de).
+If you are interested in joining the church as an adult, please contact Fr. Ritchille Salinas after mass.
 
 ## Confession
 Confession is available every Sunday before mass starting at 11:00.
