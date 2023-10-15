@@ -10,7 +10,7 @@ Our community relies on the time and energy of all its members.
 Please get involved if you can.
 
 ## Liturgical Service
-For those interested in serving in the liturgy as a lector or eucharistic minister, please contact Anna at [anna@klaus-baumann.de](mailto:anna@klaus-baumann.de).
+For those interested in serving in the liturgy as a lector or eucharistic minister, please contact Anna Baumann after Mass.
 
 ## Musical Choirs
 Our community has two instrumental choirs which lead the singing during mass on alternating Sundays.
