@@ -5,7 +5,7 @@ background: 'assets/images/header.jpg'
 
 <div class="alert alert-info mb-5">
   <div class="alert alert-info mb-5">
-  <h3>Lenten and Easter Mass Schedule</h3>  
+  <h3>Lenten and Holy Week Mass Schedule</h3>  
     <ul>
       <li>Palm Sunday (24 March) - English mass at 12:00 noon</li>
       <li>Holy (Maundy Thursday (28 Mar) - No English mass</li>
