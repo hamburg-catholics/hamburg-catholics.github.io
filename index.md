@@ -4,16 +4,15 @@ background: 'assets/images/header.jpg'
 ---
 
 <div class="alert alert-info mb-5">
-  <h3>Ash Wednesday Mass Schedule in Hamburg</h3>  
+  <div class="alert alert-info mb-5">
+  <h3>Lenten and Easter Mass Schedule</h3>  
     <ul>
-      <li>7:00  at <a href="https://maps.app.goo.gl/LsgPXH77BzZm5cCLA">Sankt Sophien</a> in German</li>
-      <li>7:30  at <a href="https://maps.app.goo.gl/2SmFWFWqM62a91Uq6">Ansgar Kapelle</a> in German</li>
-      <li>12:30 at <a href="https://maps.app.goo.gl/BdzJvrtQpkdN1rpf6">Mariendom</a> in German</li>
-      <li>18:00 at <a href="https://maps.app.goo.gl/LsgPXH77BzZm5cCLA">Sankt Sophien</a> in German</li>
-      <li>18:15 at <a href="https://maps.app.goo.gl/BdzJvrtQpkdN1rpf6">Mariendom</a> in German</li>
-      <li>19:00 at St. Elisabeth's in German</li>
-      <li>19:00 at <a href="https://maps.app.goo.gl/8skM3wEtvJFfzc19A">Kleiner Michel</a> in German</li>
-      <li>19:30 at <a href="https://maps.app.goo.gl/LsgPXH77BzZm5cCLA">Sankt Sophien</a> by the Ghana Catholic Mission</li>
+      <li>Palm Sunday (24 March) - English mass at 12:00 noon</li>
+      <li>Holy (Maundy Thursday (28 Mar) - No English mass</li>
+      <li>Good Friday (29 Mar) - Celebration of the Lord’s Passion, including the Passion reading, solemn intercessions, and adoration of the Holy Cross at 5:30 PM</li>
+      <li>Holy Saturday (30 Mar) - No English mass</li>
+      <li>Easter Sunday (31 Mar) - English mass at 12:00 noon</li>
+      <li>Easter Monday (1 Apr) - No English mass</li>
       </ul>
 </div>
 
