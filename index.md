@@ -15,18 +15,10 @@ background: 'assets/images/header.jpg'
       </ul>
 </div>
 
-<!-- <div class="alert alert-info mb-5">
-  <h3>Lenten and Easter Mass Schedule</h3>
-    <ul>
-      <li>Palm Sunday (2 Apr) - English mass at 12:00 noon, including a palm procession</li>
-      <li>Holy (Maundy Thursday (6 Apr) - No English mass</li>
-      <li>Good Friday (7 Apr) - Celebration of the Lord’s Passion, including the Passion reading, solemn intercessions, and adoration of the Holy Cross (no Holy Communion) at 5:30 PM</li>
-      <li>Holy Saturday (8 Apr) - No English mass</li>
-      <li>Easter Sunday (9 Apr) - English mass at 12:00 noon</li>
-      <li>Easter Monday (10 Apr) - No English mass</li>
-      <li>Ascension (18 May) - No English mass; we celebrate Ascension on the following Sunday during the regularly-scheduled mass</li>
-      </ul>
-</div> -->
+<div class="alert alert-info mb-5">
+  <h3>Mass on 4th August</h3>
+    <p>Mass starts at 12:15 pm this SUnday </p>
+</div>
 
 ## Welcome!
 <img src="assets/images/home.jpg" alt="St. Elisabeth Church in Hamburg" style="width: 200px; float: right; margin: 0 0 20px 20px;">
