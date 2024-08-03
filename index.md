@@ -17,7 +17,7 @@ background: 'assets/images/header.jpg'
 
 <div class="alert alert-info mb-5">
   <h3>Mass on 4th August</h3>
-    <p>Mass starts at 12:15 pm this SUnday </p>
+    <p>Mass starts at 12:15 pm this Sunday </p>
 </div>
 
 ## Welcome!
