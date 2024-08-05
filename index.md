@@ -15,11 +15,6 @@ background: 'assets/images/header.jpg'
       </ul>
 </div>-->
 
-<div class="alert alert-info mb-5">
-  <h3>Mass on 4th August</h3>
-    <p>Mass starts at 12:15 pm this Sunday </p>
-</div>
-
 ## Welcome!
 <img src="assets/images/home.jpg" alt="St. Elisabeth Church in Hamburg" style="width: 200px; float: right; margin: 0 0 20px 20px;">
 
