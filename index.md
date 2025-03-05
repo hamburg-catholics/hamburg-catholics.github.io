@@ -5,7 +5,7 @@ background: 'assets/images/header.jpg'
 
 <div class="alert alert-info mb-5">
   <h3>Ash Wednesday Mass Schedule in Hamburg</h3>
-  Note: There is no English Mass for ASh Wednesday. However, there will be Ash distribution on Sunday, Mar 9th during the regularly scheduled English Mass.
+  Note: There is no English Mass for Ash Wednesday. However, there will be Ash distribution on Sunday, Mar 9th during the regularly scheduled English Mass.
     <ul>
       <li>7:00  at <a href="https://maps.app.goo.gl/LsgPXH77BzZm5cCLA">Sankt Sophien</a> in German</li>
       <li>7:30  at <a href="https://maps.app.goo.gl/2SmFWFWqM62a91Uq6">Ansgar Kapelle</a> in German</li>
