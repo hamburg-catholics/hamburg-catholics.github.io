@@ -4,33 +4,16 @@ background: 'assets/images/header.jpg'
 ---
 
 <div class="alert alert-info mb-5">
-  <h3>Ash Wednesday Mass Schedule in Hamburg</h3>
-  Note: There is no English Mass for Ash Wednesday. However, there will be Ash distribution on Sunday, Mar 9th during the regularly scheduled English Mass.
-    <ul>
-      <li>7:00  at <a href="https://maps.app.goo.gl/LsgPXH77BzZm5cCLA">Sankt Sophien</a> in German</li>
-      <li>7:30  at <a href="https://maps.app.goo.gl/2SmFWFWqM62a91Uq6">Ansgar Kapelle</a> in German</li>
-      <li>12:30 at <a href="https://maps.app.goo.gl/BdzJvrtQpkdN1rpf6">Mariendom</a> in German</li>
-      <li>15:00 at St. Elisabeth's in German</li>
-      <li>18:00 at <a href="https://maps.app.goo.gl/LsgPXH77BzZm5cCLA">Sankt Sophien</a> in German</li>      
-      <li>18:00 at <a href="https://maps.app.goo.gl/5F3rHNV2JRh1Q8Xa7">St. Bonifatius</a> in German</li>
-      <li>18:15 at <a href="https://maps.app.goo.gl/BdzJvrtQpkdN1rpf6">Mariendom</a> in German</li>
-      <li>19:00 at <a href="https://maps.app.goo.gl/m57VotVLsszFqAPP8">St. Antonius</a> in German</li>
-      <li>19:00 at <a href="https://maps.app.goo.gl/8skM3wEtvJFfzc19A">Kleiner Michel</a> in German</li>
-      <li>19:30 at <a href="https://maps.app.goo.gl/LsgPXH77BzZm5cCLA">Sankt Sophien</a> by the Ghana Catholic Mission</li>
-      </ul>
-</div>
-
-<!--<div class="alert alert-info mb-5">
   <h3>Lenten and Holy Week Mass Schedule</h3>  
     <ul>
-      <li>Palm Sunday (24 March) - English mass at 12:00 noon</li>
-      <li>Holy (Maundy Thursday (28 Mar) - No English mass</li>
-      <li>Good Friday (29 Mar) - Celebration of the Lord’s Passion, including the Passion reading, solemn intercessions, and adoration of the Holy Cross at 5:30 PM</li>
-      <li>Holy Saturday (30 Mar) - No English mass</li>
-      <li>Easter Sunday (31 Mar) - English mass at 12:00 noon</li>
-      <li>Easter Monday (1 Apr) - No English mass</li>
+      <li>Palm Sunday (13 Apr) - English mass at 12:00 noon</li>
+      <li>Holy (Maundy Thursday (17 Apr) - No English mass</li>
+      <li>Good Friday (18 Apr) - Celebration of the Lord’s Passion, including the Passion reading, solemn intercessions, and adoration of the Holy Cross at 5:30 PM</li>
+      <li>Holy Saturday (19 Apr) - No English mass</li>
+      <li>Easter Sunday (20 Apr) - English mass at 12:00 noon</li>
+      <li>Easter Monday (21 Apr) - No English mass</li>
       </ul>
-</div>-->
+</div>
 
 ## Welcome!
 <img src="assets/images/home.jpg" alt="St. Elisabeth Church in Hamburg" style="width: 200px; float: right; margin: 0 0 20px 20px;">
