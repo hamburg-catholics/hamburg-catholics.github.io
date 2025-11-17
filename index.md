@@ -4,14 +4,10 @@ background: 'assets/images/header.jpg'
 ---
 
 <div class="alert alert-info mb-5">
-  <h3>Lenten and Holy Week Mass Schedule</h3>  
+  <h3>Christmas Schedule</h3>  
     <ul>
-      <li>Palm Sunday (13 Apr) - English mass at 12:00 noon</li>
-      <li>Holy (Maundy Thursday (17 Apr) - No English mass</li>
-      <li>Good Friday (18 Apr) - Celebration of the Lord’s Passion, including the Passion reading, solemn intercessions, and adoration of the Holy Cross at 5:30 PM</li>
-      <li>Holy Saturday (19 Apr) - No English mass</li>
-      <li>Easter Sunday (20 Apr) - English mass at 12:00 noon</li>
-      <li>Easter Monday (21 Apr) - No English mass</li>
+      <li>Christmas Eve (24 Dec 2025) - No English mass</li>
+      <li>Christmas (25 Dec 2025) - English mass at 12:00 noon</li>      
       </ul>
 </div>
 
