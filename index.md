@@ -8,7 +8,12 @@ background: 'assets/images/header.jpg'
     <ul>
       <li>Christmas Eve (24 Dec 2025) - No English mass</li>
       <li>Christmas (25 Dec 2025) - English mass at 12:00 noon</li>      
-      </ul>
+    </ul>
+</div>
+
+<div class="alert alert-info mb-5">
+	<h4> First Holy Communion and Confirmation Registration</h4>
+	<a href="https://forms.gle/SUL7Nw4VS8UxmFqEA">Form</a>
 </div>
 
 ## Welcome!

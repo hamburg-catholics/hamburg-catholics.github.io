@@ -42,6 +42,9 @@ page_list:
       name: Ministries
       url: /ministries
   - page:
+      name: Events
+      url: /events
+  - page:
       name: Resources
       url: /resources
   - page:
