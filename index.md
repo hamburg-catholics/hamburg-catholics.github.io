@@ -2,7 +2,7 @@
 layout: home
 background: 'assets/images/header.jpg'
 ---
-
+Test 2
 <div class="alert alert-info mb-5">
   <h3>Ash Wednesday Schedule</h3>
     <ul>
