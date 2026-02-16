@@ -1,32 +1,42 @@
-# .github/workflows/preview.yml
 name: Deploy PR previews
 
 on:
-    pull_request:
-        types:
-            - opened
-            - reopened
-            - synchronize
-            - closed
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
 
 concurrency: preview-${{ github.ref }}
 
 jobs:
-    deploy-preview:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout
-              uses: actions/checkout@v4
+  deploy-preview:
+    runs-on: ubuntu-latest
 
-            - name: Install and Build
-              if: github.event.action != 'closed' # We don't need the build if we know the preview will be removed
-              run: |
-                  gem install jekyll bundler
-                  bundle exec jekyll build
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-            - name: Deploy preview
-              uses: rossjrw/pr-preview-action@v1.8.1
-              with:
-                  source-dir: ./build/
-                  preview-branch: master
-                  qr-code: true
+      # Setup Ruby
+      - name: Setup Ruby
+        if: github.event.action != 'closed'
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+
+      # Install gems + build
+      - name: Install and Build
+        if: github.event.action != 'closed'
+        run: |
+          bundle install
+          bundle exec jekyll build
+
+      # Deploy preview
+      - name: Deploy preview
+        uses: rossjrw/pr-preview-action@v1.8.1
+        with:
+          source-dir: ./_site
+          preview-branch: master
+          qr-code: true
