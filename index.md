@@ -3,8 +3,11 @@ layout: home
 background: 'assets/images/header.jpg'
 ---
 
-<div class="alert alert-info mb-5">
-  <h3>Ash Wednesday Schedule</h3>
+<section class="updates-card mb-5" aria-labelledby="latest-updates-heading">
+  <h3 id="latest-updates-heading">Latest Updates</h3>
+
+  <article class="update-item">
+    <h4>Ash Wednesday Schedule</h4>
     <ul>
       <li>There will be no Ash Wednesday Mass in English.</li>
       <li>Ashes will be distributed on Sunday, 22 March, after the Sunday Mass.</li>
@@ -13,15 +16,30 @@ background: 'assets/images/header.jpg'
       <li>Sankt Sophien - 18:00</li>
       <li>Kleiner Michel - 19:00</li>
     </ul>
-</div>
+  </article>
 
-<div class="alert alert-info mb-5">
-	<h4> First Holy Communion and Confirmation Registration</h4>
-	<a href="https://forms.gle/SUL7Nw4VS8UxmFqEA">Form</a>
-</div>
+  <article class="update-item">
+    <h4>First Holy Communion and Confirmation Registration</h4>
+    <a class="btn btn-primary btn-sm" href="https://forms.gle/SUL7Nw4VS8UxmFqEA">Register via the online form</a>
+  </article>
+</section>
+
+<section class="quick-actions mb-5" aria-label="Quick actions">
+  <a class="quick-action" href="#mass-time-and-location">Mass Times</a>
+  <a class="quick-action" href="#visit-us">Location</a>
+  <a class="quick-action" href="/newsletter">Newsletter</a>
+  <a class="quick-action" href="https://forms.gle/SUL7Nw4VS8UxmFqEA">Sacrament Registration</a>
+</section>
+
+<section class="service-summary mb-5" id="visit-us" aria-labelledby="visit-us-heading">
+  <h3 id="visit-us-heading">Visit Us</h3>
+  <p><strong>Sunday English Mass:</strong> 12:00 noon</p>
+  <p><strong>Church:</strong> St. Elisabeth Church</p>
+  <p><strong>Address:</strong> Oberstraße 67, 20149 Hamburg</p>
+</section>
 
 ## Welcome!
-<img src="assets/images/home.jpg" alt="St. Elisabeth Church in Hamburg" style="width: 200px; float: right; margin: 0 0 20px 20px;">
+<img src="assets/images/home.jpg" alt="St. Elisabeth Church in Hamburg" class="content-image-right profile-image">
 
 We are a vibrant community of English-speaking Catholics from across the globe.
 Whether you are moving to Hamburg permanently, on a temporary assignment, or just passing through the city as a traveler, you are welcome to celebrate mass with us in English.
@@ -36,7 +54,7 @@ Mass is held in English at 12:00 noon every Sunday at St. Elisabeth Church at Ob
 
 ## Our Pastor
 
-<img src="assets/images/fr_ritchille_salinas.jpg" alt="Fr. Ritchille Salinas" style="width: 200px; float: right; margin: 0 0 20px 20px;">
+<img src="assets/images/fr_ritchille_salinas.jpg" alt="Fr. Ritchille Salinas" class="content-image-right profile-image">
 
 Fr. Ritchille Salinas, SVD has been the pastor of the English-speaking community at St. Elisabeth since January 2020.
 Fr. Ritchille is originally from the Philippines, and arrived in Germany in 2008 to study Catholic theology at the Kölner Hochschule für Katholische Theologie and at Ludwig Maximilian University in Munich.
