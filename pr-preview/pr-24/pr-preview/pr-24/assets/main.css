@@ -424,28 +424,12 @@ footer .copyright {
   text-decoration: none;
 }
 
-.quick-action:focus-visible,
-#mainNav .nav-link:focus-visible,
-.btn:focus-visible {
-  outline: 3px solid #1f6fb2;
-  outline-offset: 2px;
-}
-
 .updates-card,
 .service-summary {
   border: 1px solid #d0dae6;
   border-radius: 0.5rem;
   padding: 1.25rem;
   background: #f8fbff;
-}
-
-.update-meta {
-  margin-bottom: 0.25rem;
-  font-size: 0.85rem;
-  font-weight: 700;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4c6782;
 }
 
 .update-item + .update-item {
@@ -469,27 +453,9 @@ footer .copyright {
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
 }
 
-.hero-subtitle {
-  margin: 0.75rem 0 1rem;
-  font-size: 1.1rem;
-  color: #fff;
-}
-
-.hero-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-}
-
 p,
 li {
   line-height: 1.65;
-}
-
-#mainNav .nav-item.active .nav-link {
-  color: #0b3d66;
-  font-weight: 700;
-  border-bottom: 2px solid currentColor;
 }
 
 @media (max-width: 767px) {
@@ -502,6 +468,11 @@ li {
     margin: 0 auto 1rem;
   }
 }
+#mainNav .nav-item.active .nav-link {
+  color: #0b3d66;
+  font-weight: 700;
+}
+
 .map-responsive {
   overflow: hidden;
   padding-bottom: 56.25%;
