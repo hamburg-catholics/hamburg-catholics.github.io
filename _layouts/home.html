@@ -11,9 +11,14 @@ layout: default
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="col-lg-10 col-md-10 mx-auto">
           <div class="page-heading">
             <h2>{{ site.title }}</h2>
+            <p class="hero-subtitle">Join us for Sunday English Mass at 12:00 noon.</p>
+            <div class="hero-actions">
+              <a class="btn btn-primary btn-sm" href="#visit-us">Plan your visit</a>
+              <a class="btn btn-outline-light btn-sm" href="{{ '/newsletter' | relative_url }}">Subscribe to newsletter</a>
+            </div>
           </div>
         </div>
       </div>
@@ -21,10 +26,10 @@ layout: default
   </header>
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-md-8 mx-auto">
-        
+      <div class="col-lg-10 col-md-10 mx-auto">
+
         {{ content }}
-        
+
       </div>
     </div>
   </div>
