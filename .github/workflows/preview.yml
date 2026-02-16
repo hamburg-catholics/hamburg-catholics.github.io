@@ -21,8 +21,8 @@ jobs:
             - name: Install and Build
               if: github.event.action != 'closed' # We don't need the build if we know the preview will be removed
               run: |
-                  npm install
-                  npm run build
+                  gem install jekyll bundler
+                  bundle exec jekyll build
 
             - name: Deploy preview
               uses: rossjrw/pr-preview-action@v1.8.1
