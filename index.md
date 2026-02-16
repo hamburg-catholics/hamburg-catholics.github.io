@@ -4,10 +4,14 @@ background: 'assets/images/header.jpg'
 ---
 
 <div class="alert alert-info mb-5">
-  <h3>Christmas Schedule</h3>  
+  <h3>Ash Wednesday Schedule</h3>
     <ul>
-      <li>Christmas Eve (24 Dec 2025) - No English mass</li>
-      <li>Christmas (25 Dec 2025) - English mass at 12:00 noon</li>      
+      <li>There will be no Ash Wednesday Mass in English.</li>
+      <li>Ashes will be distributed on Sunday, 22 March, after the Sunday Mass.</li>
+      <li>Those who wish to attend Ash Wednesday Mass may do so in German at one of the many parishes in Hamburg, including:</li>
+      <li>Mariendom - 12:00 noon and 18:15</li>
+      <li>Sankt Sophien - 18:00</li>
+      <li>Kleiner Michel - 19:00</li>
     </ul>
 </div>
 
