@@ -18,15 +18,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Setup Ruby
+      # Setup Ruby properly
       - name: Setup Ruby
         if: github.event.action != 'closed'
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'
+          ruby-version: '3.2'
           bundler-cache: true
 
-      # Install gems + build
+      # Install gems and build
       - name: Install and Build
         if: github.event.action != 'closed'
         run: |
