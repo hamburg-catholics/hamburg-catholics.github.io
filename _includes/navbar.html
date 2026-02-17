@@ -9,8 +9,16 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
         {% for page_detail in site.page_list %}
-        <li class="nav-item">
-          <a class="nav-link" href="{{page_detail.page.url | relative_url}}">{{page_detail.page.name}}</a>
+        {% assign page_url = page_detail.page.url | relative_url %}
+        {% assign current_url = page.url | relative_url %}
+        {% assign is_active = false %}
+        {% if current_url == page_url or current_url == page_url | append: "/" %}
+          {% assign is_active = true %}
+        {% elsif page_url == "/index" and current_url == "/" %}
+          {% assign is_active = true %}
+        {% endif %}
+        <li class="nav-item {% if is_active %}active{% endif %}">
+          <a class="nav-link" href="{{ page_url }}">{{ page_detail.page.name }}</a>
         </li>
         {% endfor %}
       </ul>

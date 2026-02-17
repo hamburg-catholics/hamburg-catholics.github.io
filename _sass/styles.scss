@@ -1,2 +1,107 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+
+.quick-actions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+.quick-action {
+  display: block;
+  text-align: center;
+  padding: 0.75rem 1rem;
+  border: 1px solid #d0dae6;
+  border-radius: 0.375rem;
+  background: #f8fbff;
+  color: #0b3d66;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.quick-action:hover,
+.quick-action:focus {
+  background: #e9f3ff;
+  color: #0b3d66;
+  text-decoration: none;
+}
+
+.quick-action:focus-visible,
+#mainNav .nav-link:focus-visible,
+.btn:focus-visible {
+  outline: 3px solid #1f6fb2;
+  outline-offset: 2px;
+}
+
+.updates-card,
+.service-summary {
+  border: 1px solid #d0dae6;
+  border-radius: 0.5rem;
+  padding: 1.25rem;
+  background: #f8fbff;
+}
+
+.update-meta {
+  margin-bottom: 0.25rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4c6782;
+}
+
+.update-item + .update-item {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #dbe5ef;
+}
+
+.content-image-right {
+  float: right;
+  margin: 0 0 1.25rem 1.25rem;
+}
+
+.profile-image {
+  width: 200px;
+  max-width: 100%;
+  border-radius: 0.375rem;
+}
+
+.page-heading h2 {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.hero-subtitle {
+  margin: 0.75rem 0 1rem;
+  font-size: 1.1rem;
+  color: #fff;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+p,
+li {
+  line-height: 1.65;
+}
+
+#mainNav .nav-item.active .nav-link {
+  color: #0b3d66;
+  font-weight: 700;
+  border-bottom: 2px solid currentColor;
+}
+
+@media (max-width: 767px) {
+  .quick-actions {
+    grid-template-columns: 1fr;
+  }
+
+  .content-image-right {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem;
+  }
+}
