@@ -36,10 +36,10 @@ Mass is held in English at 12:00 noon every Sunday at St. Elisabeth Church at Ob
 
 ## Our Pastor
 
-<img src="assets/images/fr_ritchille_salinas.jpg" alt="Fr. Ritchille Salinas" style="width: 200px; float: right; margin: 0 0 20px 20px;">
+<img src="assets/images/fr_ritchille_salinas.jpg" alt="Fr. Rey" style="width: 200px; float: right; margin: 0 0 20px 20px;">
 
-Fr. Ritchille Salinas, SVD has been the pastor of the English-speaking community at St. Elisabeth since January 2020.
-Fr. Ritchille is originally from the Philippines, and arrived in Germany in 2008 to study Catholic theology at the Kölner Hochschule für Katholische Theologie and at Ludwig Maximilian University in Munich.
+Fr. Rey, SVD has been the pastor of the English-speaking community at St. Elisabeth since January 2020.
+Fr. Rey is originally from the Philippines, and arrived in Germany in 2008 to study Catholic theology at the Kölner Hochschule für Katholische Theologie and at Ludwig Maximilian University in Munich.
 He was ordained to the priesthood in Sankt Augustin near Bonn in 2014, working in German parishes in Augsburg and Dresden during his pastoral years.
-Fr. Ritchille accepted his first assignment from 2016 to January 2020 as an assistant parish priest in Obersendling-Waldfriedhof in Munich.
+Fr. Rey accepted his first assignment from 2016 to January 2020 as an assistant parish priest in Obersendling-Waldfriedhof in Munich.
 In Hamburg, he is responsible for our English-speaking community, the Filipino Catholic Community, and is undertaking his first work as port chaplain for the Stella Maris Catholic Seafarers mission of the Archdiocese of Hamburg.
