@@ -33,7 +33,7 @@ If you’d like to join, please contact [catechism@hamburg-catholics.de](mailto:
 
 ## Rite of Christian Initiation of Adults
 RCIA is a formation program for all those interested in becoming Catholic and for adult Catholics who have never been confirmed.
-Please speak to Fr. Ritchille after mass if you are interested in this program.
+Please speak to Fr. Rey after mass if you are interested in this program.
 
 ## Young Adults
 We have a Young Adults group for anyone 18 and older who share our faith, study the Bible, worship, and pray.
