@@ -36,7 +36,7 @@ Mass is held in English at 12:00 noon every Sunday at St. Elisabeth Church at Ob
 
 ## Our Pastor
 
-<img src="assets/images/fr_ritchille_salinas.jpg" alt="Fr. Rey" style="width: 200px; float: right; margin: 0 0 20px 20px;">
+<img src="assets/images/fr_rey.jpg" alt="Fr. Rey" style="width: 200px; float: right; margin: 0 0 20px 20px;">
 
 Fr. Vincent Rey Bahian SVD, has been the pastor of the English-speaking community at St. Elisabeth since January 2026.
 (More details to follow soon...)
