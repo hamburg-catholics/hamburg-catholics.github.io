@@ -23,7 +23,7 @@ Confession is available every Sunday before mass starting at 11:00, and also aft
 ## Eucharist
 Children or adults who are interested in being prepared for first holy communion should contact Mario Stallone at [catechism@hamburg-catholics.de](mailto:catechism@hamburg-catholics.de) to find out about when the next round of classes will take place.
 
-If you or a family member cannot attend Mass and would like to have the Eucharist brought to your home, please contact Fr. Rey at [ritchille.salinas@erzbistum-hamburg.org](mailto:ritchille.salinas@erzbistum-hamburg.org).
+If you or a family member cannot attend Mass and would like to have the Eucharist brought to your home, please contact Fr. Rey at [Vencent.Bahian@erzbistum-hamburg.de](mailto:Vencent.Bahian@erzbistum-hamburg.de).
 
 ## Confirmation
 Children or adults who are interested in being prepared for confirmation should contact Sandra de Menezes at [confirmation@hamburg-catholics.de](mailto:confirmation@hamburg-catholics.de) to find out about when the next round of classes will take place.
@@ -35,7 +35,7 @@ Fr. Rey will contact you to discuss and plan the wedding after you have successf
 
 ## Anointing of the sick
 Anointing of the sick is available to parishioners who are nearing the end of their life, struggling with chronic illness, or coping with extreme emotional illness.
-To request to be anointed at the parish, at the hospital, or in your home, please contact Fr. Rey at [ritchille.salinas@erzbistum-hamburg.org](mailto:ritchille.salinas@erzbistum-hamburg.org) or 0151 65178120.
+To request to be anointed at the parish, at the hospital, or in your home, please contact Fr. Rey at [Vencent.Bahian@erzbistum-hamburg.de](mailto:Vencent.Bahian@erzbistum-hamburg.de) or 0151 65178120.
 
 ## Sacramental Documents
 If you would like a copy of a certificate for a sacrament that has taken place in the past, please contact the secretary of Sankt Elisabeth, Frau Stephania Trost at 040 696 3838 70 or [pfarrei@heiliggeist.org](mailto:pfarrei@heiliggeist.org).
