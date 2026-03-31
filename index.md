@@ -12,11 +12,6 @@ background: 'assets/images/header.jpg'
   </ul>
 </div>
 
-<div class="alert alert-info mb-5">
-	<h4> First Holy Communion and Confirmation Registration</h4>
-	<a href="https://forms.gle/SUL7Nw4VS8UxmFqEA">Form</a>
-</div>
-
 ## Welcome!
 <img src="assets/images/home.jpg" alt="St. Elisabeth Church in Hamburg" style="width: 200px; float: right; margin: 0 0 20px 20px;">
 
