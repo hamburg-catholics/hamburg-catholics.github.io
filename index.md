@@ -3,15 +3,6 @@ layout: home
 background: 'assets/images/header.jpg'
 ---
 
-<div class="alert alert-info mb-5">
-  <h3>Holy Week Schedule</h3>
-  <ul>
-    <li>Maundy Thursday - There will be no English Service.</li>
-    <li>Good Friday Services at 5:30pm.</li>
-    <li>Easter Sunday Mass at 12 noon.</li>
-  </ul>
-</div>
-
 ## Welcome!
 <img src="assets/images/home.jpg" alt="St. Elisabeth Church in Hamburg" style="width: 200px; float: right; margin: 0 0 20px 20px;">
 
