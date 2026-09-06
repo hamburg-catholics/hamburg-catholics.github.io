@@ -19,7 +19,10 @@ Mass is held in English at 12:00 noon every Sunday at St. Elisabeth Church at Ob
 
 ## Our Pastor
 
-<img src="assets/images/fr_rey.jpg" alt="Fr. Rey" style="width: 200px; float: right; margin: 0 0 20px 20px;">
+Fr. Germain hails from Cameroon. Before coming to us, he was based in Husum as part of the regional ministry team for Northern Schleswig-Holstein. He served as a tourism chaplain along the North Sea coast, offering pastoral care and services to seasonal travelers and holiday-makers visiting the area. We are delighted that the continued flourishing of his pastoral calling will happen with us.
 
-Fr. Vincent Rey Bahian SVD, has been the pastor of the English-speaking community at St. Elisabeth since January 2026.
-(More details to follow soon...)
+**Email:** [germain.gouen@erzbistum-hamburg.de](mailto:germain.gouen@erzbistum-hamburg.de)
+
+**Office hours:** Wednesdays and Thursdays, 10:00 am–4:00 pm (in the office at St. Elisabeth)
+
+**Sunday confession:** 10:30 am–11:30 am

@@ -12,18 +12,18 @@ All Sacraments are available to parishioners in English.
 Baptism for infants/children usually takes place during Sunday mass.
 For infant/child baptism, please contact the secretary of Sankt Elisabeth, Frau Stephania Trost at 040 696 3838 70 or [pfarrei@heiliggeist.org](mailto:pfarrei@heiliggeist.org).
 Please make contact at least 6 weeks before you would like the baptism to take place.
-After you have contacted Frau Trost and signed the registration form, Fr. Rey will contact you to discuss and plan the baptism.
+After you have contacted Frau Trost and signed the registration form, Fr. Germain will contact you to discuss and plan the baptism.
 
 Baptism for adults is possible through the Rite of Christian Initiation of Adults (RCIA).
-If you are interested in joining the church as an adult, please contact Fr. Rey after mass.
+If you are interested in joining the church as an adult, please contact Fr. Germain after Mass.
 
 ## Confession
-Confession is available every Sunday before mass starting at 11:00, and also after mass.
+Confession is available every Sunday from 10:30 am to 11:30 am.
 
 ## Eucharist
 Children or adults who are interested in being prepared for first holy communion should contact Mario Stallone at [catechism@hamburg-catholics.de](mailto:catechism@hamburg-catholics.de) to find out about when the next round of classes will take place.
 
-If you or a family member cannot attend Mass and would like to have the Eucharist brought to your home, please contact Fr. Rey at [Vencent.Bahian@erzbistum-hamburg.de](mailto:Vencent.Bahian@erzbistum-hamburg.de).
+If you or a family member cannot attend Mass and would like to have the Eucharist brought to your home, please contact Fr. Germain at [germain.gouen@erzbistum-hamburg.de](mailto:germain.gouen@erzbistum-hamburg.de).
 
 ## Confirmation
 Children or adults who are interested in being prepared for confirmation should contact Sandra de Menezes at [confirmation@hamburg-catholics.de](mailto:confirmation@hamburg-catholics.de) to find out about when the next round of classes will take place.
@@ -31,11 +31,11 @@ Children or adults who are interested in being prepared for confirmation should 
 ## Marriage
 Couples who are interested in being prepared for marriage and/or married at St. Elisabeth should contact the secretary of Sankt Elisabeth, Frau Stephania Trost at 040 696 3838 70 or [pfarrei@heiliggeist.org](mailto:pfarrei@heiliggeist.org).
 Please make contact at least 6 months before your expected wedding date.
-Fr. Rey will contact you to discuss and plan the wedding after you have successfully registered through the secretary.
+Fr. Germain will contact you to discuss and plan the wedding after you have successfully registered through the secretary.
 
 ## Anointing of the sick
 Anointing of the sick is available to parishioners who are nearing the end of their life, struggling with chronic illness, or coping with extreme emotional illness.
-To request to be anointed at the parish, at the hospital, or in your home, please contact Fr. Rey at [Vencent.Bahian@erzbistum-hamburg.de](mailto:Vencent.Bahian@erzbistum-hamburg.de) or 0151 65178120.
+To request to be anointed at the parish, at the hospital, or in your home, please contact Fr. Germain at [germain.gouen@erzbistum-hamburg.de](mailto:germain.gouen@erzbistum-hamburg.de).
 
 ## Sacramental Documents
 If you would like a copy of a certificate for a sacrament that has taken place in the past, please contact the secretary of Sankt Elisabeth, Frau Stephania Trost at 040 696 3838 70 or [pfarrei@heiliggeist.org](mailto:pfarrei@heiliggeist.org).
