@@ -19,6 +19,7 @@ Mass is held in English at 12:00 noon every Sunday at St. Elisabeth Church at Ob
 
 ## Our Pastor
 
+<img src="assets/images/fr_germain_gouen.png" alt="Fr. Germain" style="width: 200px; float: right; margin: 0 0 20px 20px;">
 Fr. Germain hails from Cameroon. Before coming to us, he was based in Husum as part of the regional ministry team for Northern Schleswig-Holstein. He served as a tourism chaplain along the North Sea coast, offering pastoral care and services to seasonal travelers and holiday-makers visiting the area. We are delighted that the continued flourishing of his pastoral calling will happen with us.
 
 **Email:** [germain.gouen@erzbistum-hamburg.de](mailto:germain.gouen@erzbistum-hamburg.de)
