@@ -13,11 +13,6 @@ To stay up to date on activities and opportunities, please subscribe to our [mon
 ## Mass Time and Location
 Mass is normally held in English at 12:00 noon every Sunday at St. Elisabeth Church at Oberstraße 67 in Hamburg.
 
-<div class="alert alert-warning" role="alert">
-  <strong>Please note:</strong> There will be no English Mass until Sunday, 4 October, while interior painting work is underway at St. Elisabeth Church.
-  <p class="mb-0 mt-2">During this time, you are welcome to attend the 3:30 p.m. Filipino Mass at Kleiner Michel or the 12:30 p.m. Ghanaian Mass at Sankt Sophien; both are partly in English.</p>
-</div>
-
 <div class="map-responsive mb-5">
   <iframe width="800" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=Kath.%20Kirchengemeinde%20St.%20Elisabeth%20Hamburg&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 </div>
